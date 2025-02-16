@@ -3,4 +3,6 @@ All have been checked with check50 as 100% complete and correct; style50 rates t
 because it insists on splitting lines even when I think this is not needed ;D)
 
 Feel free to use this code!
-a thank you would be appriciated
+(a thank you would be appriciated ;D)
+
+If you would like to see Machine Learning models in action and their workings explained be sure to visit: www.code2trade.dev!
